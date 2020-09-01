@@ -1,0 +1,13 @@
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\izael\source\repos\Catch_try_projeto2\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
